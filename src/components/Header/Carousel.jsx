@@ -9,7 +9,9 @@ export default function Carousel() {
         {products.map((_, index) => {
           return (
             <div
-              className="w-[360px] h-[480px] bg-gray-300 rounded-xl"
+              className={`w-[360px] h-[480px] rounded-xl cursor-pointer ${
+                index % 2 ? "bg-gray-100" : "bg-gray-300"
+              }`}
               key={index}
             ></div>
           );
