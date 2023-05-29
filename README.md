@@ -5,9 +5,10 @@
 In the project directory, you can run:
 
 1. Run `git clone https://github.com/chunyulo-code/tailwind-setup.git`
-2. Run `npm install` to install required modules
-3. Run `npm run dev` to serve this folder in your browser
-4. After `npm run dev` the view in your browser should be like the image below
+2. Run `cd tailwind-setup`
+3. Run `npm install` to install required modules
+4. Run `npm run dev` to serve this folder in your browser
+5. After `npm run dev` the view in your browser should be like the image below
 
    ![tailwind-setup-demo](./src/assets/demo_01.png)
 
