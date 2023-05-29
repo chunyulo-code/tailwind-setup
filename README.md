@@ -1,4 +1,4 @@
-# Getting Started with STYLiSH Front-End
+# Getting Started with STYLiSH Front-End using Tailwind CSS
 
 ---
 
